@@ -1,0 +1,65 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+.logo{
+    width: 300px;
+}
+ul li{
+    padding: 10px;
+}
+.pic{
+    width: 100%;
+}
+.be-the-penguins{
+    color: #bfff00;
+}
+h1{
+    font-size: 70px;
+}
+.jacket img{
+    background-color:linen;
+    padding: 40px;
+    height: 500px;
+    border-radius: 20px;
+}
+.jacket-border{
+    border: 0;
+}
+.nd{
+    margin-left: 20px;
+    width: 90%;
+}
+.buy-btn{
+    padding: 20px 45px;
+}
+.jacket-footer{
+    border: 0;
+}
+.shopping{
+    width: 100%;
+}
+.icon img{
+    height: 100px;
+    width: 92px;
+}
+.last{
+    margin-top: 100px;
+}
+.offerimg{
+    width: 80%;
+  
+}
+footer{
+    padding: 10px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+.social img{
+ height: 40px;
+ width: 40px;
+}
+footer p{
+    margin-top: 50px;
+}
