@@ -39,27 +39,22 @@ h1{
 .shopping{
     width: 100%;
 }
-.icon img{
-    height: 100px;
-    width: 92px;
-}
-.last{
-    margin-top: 100px;
+ .aa{
+    height: 150px;
+} 
+.aa img{
+    height: 120px;
+    width: 100px;
 }
 .offerimg{
-    width: 80%;
-  
+    width: 80%; 
 }
 footer{
     padding: 10px;
     margin-top: 50px;
     text-align: center;
-
 }
 .social img{
- height: 40px;
- width: 40px;
-}
-footer p{
-    margin-top: 50px;
+ height: 30px;
+ width: 30px;
 }
