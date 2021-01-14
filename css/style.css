@@ -31,7 +31,8 @@ h1{
     width: 90%;
 }
 .buy-btn{
-    padding: 20px 45px;
+    border-radius: 5px;
+    padding: 15px 30px;
 }
 .jacket-footer{
     border: 0;
@@ -57,4 +58,10 @@ footer{
 .social img{
  height: 30px;
  width: 30px;
+}
+.price{
+    color: rgb(185, 125, 72);
+}
+.buy-sell{
+ margin-top: 100px;
 }
